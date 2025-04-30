@@ -1,1 +1,1 @@
-# summarizer-app
+# sample-app
